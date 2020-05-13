@@ -3,4 +3,5 @@ package com.cblue.test;
 public class Test01 {
   //同事修改了github上的代码
     //早上到公司首先更新项目，保证在最新项目上进行操作
+  //如何才能避免提交冲突
 }
